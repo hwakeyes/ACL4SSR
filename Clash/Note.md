@@ -1,8 +1,8 @@
-# 折腾cloudflare [【全网首发】永不被盗的订阅转换方法！使用worker搭建永久免费的私人反代订阅转换服务，新手小白必备，建议人手一个](https://www.youtube.com/watch?app=desktop&v=X7CC5jrgazo)
+### 折腾cloudflare [【全网首发】永不被盗的订阅转换方法！使用worker搭建永久免费的私人反代订阅转换服务，新手小白必备，建议人手一个](https://www.youtube.com/watch?app=desktop&v=X7CC5jrgazo)
   - 结果：可以成功转换，但是无法跟openclash的在线订阅转换对接，一直下载失败
   - 地址：https://subconvertion.eagleqilian.workers.dev/sub?target=clash&url=https%3A%2F%2Fs.trojanflare.com%2Fclashx%2Fdc4751fe-0af3-49e5-a3c9-d4897661f7e6&insert=false&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true
 
-# 折腾自建订阅转换服务器subconverter: [全网唯一】定制OpenClash在线分流规则模板、在线订阅转换模板 自定义规则、策略组、分流策略、配置文件、clash规则、搭建订阅转换后端 一并解决很多问题，BT下载、广告拦截、家庭设备指定节点](https://www.youtube.com/watch?v=D841V_xgykg)
+### 折腾自建订阅转换服务器subconverter: [全网唯一】定制OpenClash在线分流规则模板、在线订阅转换模板 自定义规则、策略组、分流策略、配置文件、clash规则、搭建订阅转换后端 一并解决很多问题，BT下载、广告拦截、家庭设备指定节点](https://www.youtube.com/watch?v=D841V_xgykg)
   - 分流规则和规则集自己制作了一份，就是当前这个fork过来的仓库
   - 在软路由上安装转换服务 https://github.com/tindy2013/subconverter/blob/master/README-cn.md ， 直接安装其二进制文件并配置自启动即可：
     ```
@@ -92,3 +92,6 @@
     恢复原样。
   - 浏览器访问地址：http://192.168.5.1:25500/sub?target=clash&url=https://s.trojanflare.com/clashx/dc4751fe-0af3-49e5-a3c9-d4897661f7e6
   - 注： openclash的配置中只需要这样配置地址 http://127.0.0.1:25500/sub
+
+  ### 其它参考文章
+  - https://github.com/Aethersailor/Custom_OpenClash_Rules?tab=readme-ov-file
